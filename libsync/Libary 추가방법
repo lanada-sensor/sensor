@@ -1,0 +1,3 @@
+코드들을 core/lib 에 넣는다
+불러올때는
+#include "lib/ntp.h"와 같이 불러온다
